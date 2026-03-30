@@ -25,3 +25,13 @@ This repository contains my SQL practice projects.
 - Identified highest performing city
 
 - Categorized sales using CASE statements
+
+- ## Project 3: Sales Dashboard
+
+- Built an interactive Dashboard using Power BI
+
+- Analysed sales by city and category
+
+- Used bar chart and pie chart for visualization
+
+- Added slicer for filtering data
